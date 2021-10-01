@@ -5,5 +5,5 @@ Proyecto para el Curso de Taller Analógico de la carrera de Ingeniería en Comp
 Multisim v14.0
 
 # Medir resistencia
-
+![][]
 # Medir tensión DC
