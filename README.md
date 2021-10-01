@@ -17,6 +17,7 @@ Multisim v14.0
 | 10-100 | La resistencia se encuentra dentro del rango de 10Ω a 100Ω.      |
 | 100-1k | La resistencia se encuentra dentro del rango de 100Ω a 1kΩ.      |
 
+
 ![Ohmeter](https://github.com/geraldvm/multimeter_analog/blob/main/img/ohmeter.PNG)
 
 ***
@@ -52,7 +53,7 @@ Multisim v14.0
 3. Coloque la señal de control en la entrada _V_control_.
 4. Coloque la señal de entrada en el pin _Vin_.
 5. En la salida _Vout_ conecte el dispositivo que desea controlar.
-6. 
+
 ![PWM](https://github.com/geraldvm/multimeter_analog/blob/main/img/pwm.PNG)
 
 ***
