@@ -5,5 +5,5 @@ Proyecto para el Curso de Taller Analógico de la carrera de Ingeniería en Comp
 Multisim v14.0
 
 # Medir resistencia
-![][]
+![Ohmeter](https://github.com/geraldvm/multimeter_analog/blob/main/img/ohmeter.PNG)
 # Medir tensión DC
