@@ -11,11 +11,13 @@ Multisim v14.0
 2. Abra el archivo en el software de simulación Multisim.
 3. Coloque la resistencia que desea medir entre las terminales _Rin_ y _GND_.
 4. El Ohmetro posee auto escala, para conocer la escala empleada se puede observar los indicadores en la salidas [1-10],[10-100] y [100-1k].
-| LED    | Descripción                                                             |
-|--------|-------------------------------------------------------------------------|
-| 1-10   | La resistencia medida se encuentra dentro del rango de 0 a 10 $\Omega$. |
-| 10-100 | La resistencia medida se encuentra dentro del rango de 10 a 100 $\Omega$.                                                                        |
-| 100-1k | La resistencia medida se encuentra dentro del rango de 100 a 1k $\Omega$.                                                                   | 
+
+| LED    | Descripción                                                      |
+|--------|------------------------------------------------------------------|
+| 1-10   | La resistencia medida se encuentra dentro del rango de 0Ω a 10Ω. |
+| 10-100 | La resistencia se encuentra dentro del rango de 10Ω a 100Ω.      |
+| 100-1k | La resistencia se encuentra dentro del rango de 100Ω a 1kΩ.      |
+
 # Medir tensión DC
 ![Ohmeter](https://github.com/geraldvm/multimeter_analog/blob/main/img/voltmeter.PNG)
 
